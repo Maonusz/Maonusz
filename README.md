@@ -9,9 +9,9 @@
 
 - 👯 I’m junior student **in HUST**
 
-- 📝 My goal is [building a website that helps students like me get the chance to rent apartment easily on their own](building a website that helps students like me get the chance to rent apartment easily on their own)
+- 📝 My goal is **building a website that helps students like me get the chance to rent apartment easily on their own**
 
-- ⚡ My hobby **I like working out and chatting with new people**
+- ⚡ My hobby: **I like working out and chatting with new people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
