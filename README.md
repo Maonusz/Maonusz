@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Đức Trí</h1>
-<h3 align="center">I am a Ha Noi University of Science and Technology (HUST) student (Vietnam). My major is Embedded System and IoT</h3>
+<h3 align="center">I am senior student at SEEE (HUST) in Vietnam. My major is Embedded Systems and IoT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maonusz&label=Profile%20views&color=0e75b6&style=flat" alt="maonusz" /> </p>
 
 - 🔭 I’m currently working on [A website that shows data about temp and humi](https://github.com/Maonusz/Temperature-and-Humidity-Project)
-
-- 🌱 I’m currently learning **Front-end & Back-end course on udemy**
-
-- 👯 I’m junior student **in HUST**
 
 - 📝 My goal is **building a website that helps students like me get the chance to rent apartment easily on their own**
 
