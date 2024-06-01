@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I am senior student at SEEE (HUST) in Vietnam. My major is Embedded Systems and IoT</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maonusz&label=Profile%20views&color=0e75b6&style=flat" alt="maonusz" /> </p>
 
 - 🔭 I’m currently working on [A website that shows data about temp and humi](https://github.com/Maonusz/Temperature-and-Humidity-Project)
 
-- 📝 My goal is **building a website that helps students like me get the chance to rent apartment easily on their own**
+- 📝 My goal is **sleeping**
 
-- ⚡ My hobby: **I like working out and chatting with new people**
+- ⚡ My hobby: **sleeping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
