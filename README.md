@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maonusz&label=Profile%20views&color=0e75b6&style=flat" alt="maonusz" /> </p>
 
-- 🔭 I’m currently working on [A website that shows data about temp and humi](https://github.com/Maonusz/Temperature-and-Humidity-Project)
+- 🔭 I’m currently working on [sleeping](https://giphy.com/gifs/sleepy-anime-girl-CoeFBrfvxzZ2U)
 
 - 📝 My goal is **sleeping**
 
